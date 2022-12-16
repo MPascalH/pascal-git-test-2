@@ -10,6 +10,8 @@
 
 <body>
     <h1>Halo Semua</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, harum nulla ea dicta id, iste sed quo consectetur
+        voluptas amet facilis quaerat sapiente laudantium eveniet repellat nostrum nihil, aliquid voluptate.</p>
 </body>
 
 </html>
